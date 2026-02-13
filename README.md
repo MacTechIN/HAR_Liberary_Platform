@@ -1,1 +1,9 @@
-# HAR_Liberary_Platform
+# VisionAI-Platform (HAR Library)
+
+본 프로젝트는 OpenCV와 Deep Learning 기술을 체계적으로 실험, 보관 및 재사용하기 위한 모듈형 플랫폼입니다.
+이 플랫폼은 신규 프로젝트에 기술을 신속하게 도입할 수 있도록 **확장성, 개방성, 재사용성**을 핵심 가치로 합니다.
+
+## 핵심 가치 (Core Values)
+- **확장성 (Scalability)**: 다양한 AI 모델과 알고리즘을 쉽게 통합할 수 있는 구조
+- **개방성 (Openness)**: 학술적 연구 및 기술 공유에 적합한 표준화된 인터페이스
+- **재사용성 (Reusability)**: 모듈화된 코드를 통해 다른 프로젝트로의 빠른 이식성 제공
