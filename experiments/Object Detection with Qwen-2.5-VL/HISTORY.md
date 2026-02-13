@@ -3,3 +3,4 @@
 
 ## 업데이트 히스토리
 - 2026-02-12 21:09: 폴더 생성 및 가상환경(qwen-env) 설정
+- 2026-02-12 21:19: qwen-env 가상환경 내 mlx-lm, opencv-python, pillow, numpy 설치
